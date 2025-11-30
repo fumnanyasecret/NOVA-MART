@@ -117,24 +117,6 @@ ORDER BY avg_rating ASC;
 
 ---
 
-### Power BI Dashboard
-**Main Dashboard**
-<img width="1280" height="692" alt="image" src="https://github.com/user-attachments/assets/6fec3318-b061-4b76-915f-73815ab95ec2" />
-
-
-### Dashboard KPIs
-Total Revenue: 190.3M
-Active Subscriptions: ~15K
-Unsuccessful Payments: 728
-Discount Impact: 14.35%
-
-### Trends & Insights
-1️⃣ Revenue peaked in October (17.4M), dipped in June (12.6M)
-2️⃣ Top Bundles: J, I, and H — primarily in Wellness & Essentials
-3️⃣ City Leaders: Port Harcourt and Enugu have the most active customers
-4️⃣ 2024 vs 2025: 110.4M vs 79.9M (Although YTD decline in 2025)
-5️⃣ Lowest Ratings: Product Quality & Billing Issues
-
 ### Focus Areas and Key Insights
 1️⃣ Revenue Drivers - 80% of revenue from Wellness & Essentials
 2️⃣ Customer Spend - Gold-tier customers lead average spend
@@ -158,8 +140,6 @@ Tools used and their purposes
 1️⃣ CSV Files - Raw data source
 2️⃣ Excel - To effectively format the dataset before converting to CSV and subsequently importing it into PostgreSQL for analysis
 3️⃣ PostgreSQL - Data exploration and querying
-4️⃣ Power BI - Dashboard design and KPI visualisation
-5️⃣ DAX - Custom measures (example, Discount Impact% and more)
 
 
 ⚠️ Disclaimer
@@ -169,8 +149,8 @@ This project is for educational and portfolio demonstration only. Data is simula
 ### 🔗 Connect With Me
 Ifunanya Uzokwe
 📧 Uzokweifunanya10@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/sunday-adedeji/)
-💻 [GitHub](https://github.com/Sunday-Adedeji) 
+🔗 [LinkedIn](https://www.linkedin.com/in/ifunanya-uzokwe/)
+💻 [GitHub](https://github.com/fumnanyasecret) 
 
 
 
