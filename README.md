@@ -1,2 +1,6 @@
+ NOVAMART PROJECT
+A data-driven analysis project using PostgreSQL and Power BI to guide product development, customer retention, and operational efficiency for a Nigerian subscription-based company that struggles to turn its data into business value.
+# 🏪 NovaMart: Customer and Product Insight Optimisation  
+### *Exploratory Data Analysis using PostgreSQL & Power BI*
 
-<img width="833" height="292" alt="image" src="https://github.com/user-attachments/assets/a4767b4d-f473-4483-95ba-424395101c49" />
+---
