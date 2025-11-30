@@ -1,8 +1,2 @@
-# NOVA-MART
-Customer and Product Insight Optimization at Novamart
-##### 🧭 Executive Summary 
-1. Jesus is lord
-2. ---
-**apple** 
 
-<img width="279" height="93" alt="image" src="https://github.com/user-attachments/assets/90da2b37-9bd0-42ad-8267-7a1adb189c57" />
+<img width="833" height="292" alt="image" src="https://github.com/user-attachments/assets/a4767b4d-f473-4483-95ba-424395101c49" />
