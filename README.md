@@ -150,9 +150,9 @@ Tools used and their purposes
 This project is for educational and portfolio demonstration only. Data is simulated and does not represent any real organisation.  
 
 ### 🔗 Connect With Me  
-Ifunanya Uzokwe  
+Ifunanya R. Uzokwe  
 📧 Uzokweifunanya10@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ifunanya-uzokwe/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/Ifunanya-uzokwe/)  
 💻 [GitHub](https://github.com/fumnanyasecret)   
 
 
