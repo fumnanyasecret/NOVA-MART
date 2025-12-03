@@ -12,7 +12,8 @@ This project applies **PostgreSQL-based data exploration** to reveal:
 - Which bundles are most profitable 💰  
 - How discounts impact total revenue 💸  
 - Which loyalty tiers drive long-term value 👑  
-- What customer issues affect satisfaction 📉  
+- What customer issues affect satisfaction 📉
+   
 By merging data cleaning and PostgreSQL analysis, this project transforms raw data into a roadmap for smarter growth and retention.  
 
 ---
@@ -60,6 +61,7 @@ ORDER BY subscription_count DESC
 LIMIT 3;  
  
 <img width="647" height="262" alt="image" src="https://github.com/user-attachments/assets/aeeba877-4090-400d-b37a-28c41391e20f" />  
+
 💡 Insight: Wellness and Essential bundle-categories are dominating the lists of bundle categories, while wellness comes first and second with 2,232 and 2,141 subscription   counts, respectively - this shows huge demand in health and lifestyle.  
 
  
@@ -74,6 +76,7 @@ GROUP BY c.loyalty_tier
 ORDER BY avg_spend DESC;  
 
 <img width="665" height="268" alt="image" src="https://github.com/user-attachments/assets/216e6467-d057-4fff-a94a-0c27215b525b" />  
+
 💡 Insight: Gold-tier customers have the highest spend per order, with an average spend of 15,288.55, suggesting strong engagement and loyalty potential. Others, such as Platinum and Silver, are coming close.
 
 
@@ -86,6 +89,7 @@ GROUP BY payment_method
 ORDER BY failed_count DESC;  
 
 <img width="648" height="266" alt="image" src="https://github.com/user-attachments/assets/4233d30f-bba6-42e7-ac6a-6cc18f295974" />  
+
 💡 Insight: Card, bank transfer, and wallet are topping the list of payment methods with failed transaction counts of 345, 238 and 145, respectively. Identifying the payment methods with high failure rates helps reduce revenue leakage and improve checkout reliability.  
 
 
@@ -99,7 +103,8 @@ WHERE b.is_active = TRUE AND p.is_successful = TRUE
 GROUP BY b.category
 ORDER BY total_revenue DESC;  
 
-<img width="638" height="298" alt="image" src="https://github.com/user-attachments/assets/e822c3e1-3426-43fc-a44c-346d84096aef" /> 
+<img width="638" height="298" alt="image" src="https://github.com/user-attachments/assets/e822c3e1-3426-43fc-a44c-346d84096aef" />  
+
 💡 Insight: Wellness and Essentials drive ~80% of NovaMart’s total revenue — prime targets for bundle-categpro expansion and campaign investment.  
 
 
@@ -111,6 +116,7 @@ GROUP BY issue_type
 ORDER BY avg_rating ASC;  
 
 <img width="642" height="300" alt="image" src="https://github.com/user-attachments/assets/f1385168-3494-4e8c-8ed4-1d8c15d4029f" />  
+
 💡 Insight: Out of the four issue types with the lowest rating, product quality and billing issues have the lowest satisfaction ratings. These are direct opportunities to improve service experience.
 
 ---
