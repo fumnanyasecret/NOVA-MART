@@ -139,7 +139,7 @@ ORDER BY avg_rating ASC;
 6️⃣ Scale regional campaigns by prioritising Port Harcourt & Enugu for local outreach.  
 
 
-### 🧰 Tools & Technology  
+### 🧰 Tools & Technology    
 Tools used and their purposes  
 1️⃣ CSV Files - Raw data source  
 2️⃣ Excel - To effectively format the dataset before converting to CSV and subsequently importing it into PostgreSQL for analysis  
